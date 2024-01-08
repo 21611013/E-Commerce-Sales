@@ -1,7 +1,6 @@
 library(shiny)
 library(shinydashboard)
 library(shinythemes)
-library(DT)
 
 
 data_A <- data.frame(
