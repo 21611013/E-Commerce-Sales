@@ -32,6 +32,6 @@ The dashboard has two main tabs:
 - **Prediction Result:** Displays the predicted sales based on user input.
 
 ## Credits:
-This dashboard is created as part of a Business Intelligence project during the 5th semester of an academic program. The structure of the code and the dashboard design are inspired by various Shiny Dashboard templates and online resources.
+This dashboard is created as part of a Business Intelligence project during the 5th semester of an academic program. 
 
 Feel free to explore, modify, and use the dashboard for your purposes. If you encounter any issues or have suggestions for improvements, please let us know!
